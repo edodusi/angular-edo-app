@@ -1,0 +1,6 @@
+alias dc="docker-compose"
+alias e="docker-compose exec app"
+alias cli="docker-compose exec app bash"
+alias ng="docker-compose exec app ng"
+alias node="docker-compose exec app node"
+alias start-server="docker-compose exec app nodemon server"
